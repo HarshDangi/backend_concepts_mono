@@ -1,0 +1,14 @@
+{
+  "name": "longpolling",
+  "version": "1.0.0",
+  "description": "In implementation of Long polling where one clients sends a message to the server and another polls the server to get the message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
